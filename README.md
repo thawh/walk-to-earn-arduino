@@ -7,7 +7,7 @@ https://developers.iotex.io/posts/deploy-a-machinefi-dapp
 
 Please check out the devices/nano-iot-33 folder: configure `secrets.h` and flash the `verifiable-steps-counter.ino` to your Arduino Nano 33 IoT board.
 
-Follow the MachineFi Get Started up to the simulated data (excluded). 
+Follow the MachineFi Get Started up to the [simulated data section](https://developers.iotex.io/posts/deploy-a-machinefi-dapp#send-simulated-data) (excluded). 
 
 Shake your Nano 33 board to send some steps to the W3bStream-Preview service!
 
