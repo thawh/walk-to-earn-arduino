@@ -5,7 +5,7 @@
 This project is based on the IoTeX MachineFi Get Started at:
 https://developers.iotex.io/posts/deploy-a-machinefi-dapp
 
-Please check out the devices/nano-iot-33 folder: configure `secrets.h` and flash the `verifiable-steps-counter.ino` to your Arduino Nano 33 IoT board.
+Please check out the devices/nano-iot-33 folder: create `secrets.h` based on `secrets.h.template`, and flash the `verifiable-steps-counter.ino` to your Arduino Nano 33 IoT board.
 
 Follow the MachineFi Get Started up to the [simulated data section](https://developers.iotex.io/posts/deploy-a-machinefi-dapp#send-simulated-data) (excluded). 
 
